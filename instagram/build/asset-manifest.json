@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/insta-clone/static/css/main.3a00b0d7.css",
-    "main.js": "/insta-clone/static/js/main.5b2c2cc2.js",
+    "main.js": "/insta-clone/static/js/main.66bdd139.js",
     "index.html": "/insta-clone/index.html",
     "main.3a00b0d7.css.map": "/insta-clone/static/css/main.3a00b0d7.css.map",
-    "main.5b2c2cc2.js.map": "/insta-clone/static/js/main.5b2c2cc2.js.map"
+    "main.66bdd139.js.map": "/insta-clone/static/js/main.66bdd139.js.map"
   },
   "entrypoints": [
     "static/css/main.3a00b0d7.css",
-    "static/js/main.5b2c2cc2.js"
+    "static/js/main.66bdd139.js"
   ]
 }
