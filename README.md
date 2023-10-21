@@ -1,5 +1,5 @@
 # 인스타그램 클론코딩 프로젝트
 
 ## 프로젝트 시작 계기
-#### react react-router emotion recoil 등 사용해보고 싶은 기술을 배우면서 테스트해보고 싶었습니다.
+#### react react-router typescript emotion recoil 등 사용해보고 싶은 기술을 배우면서 테스트해보고 싶었습니다.
 #### 해당 주제에 적합하고 만들어보면 어떤것이 좋을까 싶은 프로젝트로 인스타그램을 클론코딩으로 생각하게되었습니다.
